@@ -11,3 +11,4 @@ for student,attendance in student_attendance.items():
 #another example
 attendance_value = student_attendance.values()
 print(sum(attendance_value)/len(attendance_value))
+
